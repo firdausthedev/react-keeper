@@ -18,8 +18,11 @@ function Note() {
 <div className="items"><p>10</p><p>fwefwf</p></div>
 <div className="items"><p>11</p><p>fwefwf</p></div>
 <div className="items"><p>12</p><p>fwefwf</p></div>
-<div className="items"><p>12</p><p>fwefwf</p></div>
-<div className="items"><p>12</p><p>fwefwf</p></div>
+<div className="items"><p>10</p><p>fwefwf</p></div>
+<div className="items"><p>11</p><p>fwefwf</p></div>
+
+
+
 
   </section>
 }

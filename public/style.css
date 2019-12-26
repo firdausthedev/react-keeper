@@ -48,6 +48,8 @@ a {
 
 
 /* Section: Navbar */
+
+
 #navbar {
   display: flex;
   justify-content: space-between;
@@ -88,7 +90,7 @@ a {
 /* Section: Note */
 
 #note {
-  height: 100vh;
+  padding-bottom: 4rem;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
@@ -111,7 +113,13 @@ a {
 }
 
 /* Section: Footer */
+
+
 #footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   background-color: var(--primary-color);
   text-align: center;
   color: white;

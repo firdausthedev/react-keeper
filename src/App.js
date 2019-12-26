@@ -4,7 +4,7 @@ import Footer from "./Footer";
 import Note from "./Note";
 
 function App() {
-  return <div>
+  return <div>  
     <Navbar></Navbar>
     <Note></Note>
     <Footer></Footer>
