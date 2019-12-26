@@ -59,7 +59,11 @@ a {
   z-index: 1;
   border-bottom: 1px solid #333;
   box-shadow: 0 0px 10px #333;
+}
 
+#navbar h1 {
+  font-size: 2rem;
+  font-weight: 200;
 }
 
 #navbar ul {
@@ -105,8 +109,6 @@ a {
 .items p:first-child {
   font-weight: bold;
 }
-
-
 
 /* Section: Footer */
 #footer {

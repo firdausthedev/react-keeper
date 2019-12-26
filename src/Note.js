@@ -2,7 +2,7 @@ import React from 'react';
 
 function Note() {
   return <section id="note">
-    <div class="items">
+    <div className="items">
       <p>lorem30</p>
       <p>This is the note content</p>
     </div>
@@ -18,6 +18,9 @@ function Note() {
 <div className="items"><p>10</p><p>fwefwf</p></div>
 <div className="items"><p>11</p><p>fwefwf</p></div>
 <div className="items"><p>12</p><p>fwefwf</p></div>
+<div className="items"><p>12</p><p>fwefwf</p></div>
+<div className="items"><p>12</p><p>fwefwf</p></div>
+
   </section>
 }
 
