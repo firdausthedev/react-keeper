@@ -15,6 +15,7 @@ function Navbar() {
       </li>
     </ul> */}
   </section>
+  
 }
 
 export default Navbar;
