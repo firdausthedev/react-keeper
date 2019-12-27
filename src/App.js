@@ -8,7 +8,6 @@ function App() {
   return <div>  
     <Navbar></Navbar>
     <section id="note">
-        
       <NoteItems title="Day 1" content="dsdf"></NoteItems>
       <NoteItems title="Day 2" content="dsdf"></NoteItems>
       <NoteItems title="Day 2" content="dsdf"></NoteItems>
