@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/react-keeper/static/js/main.fdf4ce62.chunk.js",
-    "main.js.map": "/react-keeper/static/js/main.fdf4ce62.chunk.js.map",
+    "main.css": "/react-keeper/static/css/main.719b10f7.chunk.css",
+    "main.js": "/react-keeper/static/js/main.7db2d441.chunk.js",
+    "main.js.map": "/react-keeper/static/js/main.7db2d441.chunk.js.map",
     "runtime-main.js": "/react-keeper/static/js/runtime-main.75701fd6.js",
     "runtime-main.js.map": "/react-keeper/static/js/runtime-main.75701fd6.js.map",
-    "static/js/2.d2d829c1.chunk.js": "/react-keeper/static/js/2.d2d829c1.chunk.js",
-    "static/js/2.d2d829c1.chunk.js.map": "/react-keeper/static/js/2.d2d829c1.chunk.js.map",
+    "static/js/2.49c808a4.chunk.js": "/react-keeper/static/js/2.49c808a4.chunk.js",
+    "static/js/2.49c808a4.chunk.js.map": "/react-keeper/static/js/2.49c808a4.chunk.js.map",
     "index.html": "/react-keeper/index.html",
-    "precache-manifest.5a90ca88011dafa28fa1d8ef72dcf657.js": "/react-keeper/precache-manifest.5a90ca88011dafa28fa1d8ef72dcf657.js",
+    "precache-manifest.4864428fd8b313025d95cff8d494da19.js": "/react-keeper/precache-manifest.4864428fd8b313025d95cff8d494da19.js",
     "service-worker.js": "/react-keeper/service-worker.js",
-    "static/js/2.d2d829c1.chunk.js.LICENSE": "/react-keeper/static/js/2.d2d829c1.chunk.js.LICENSE"
+    "static/css/main.719b10f7.chunk.css.map": "/react-keeper/static/css/main.719b10f7.chunk.css.map",
+    "static/js/2.49c808a4.chunk.js.LICENSE": "/react-keeper/static/js/2.49c808a4.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.75701fd6.js",
-    "static/js/2.d2d829c1.chunk.js",
-    "static/js/main.fdf4ce62.chunk.js"
+    "static/js/2.49c808a4.chunk.js",
+    "static/css/main.719b10f7.chunk.css",
+    "static/js/main.7db2d441.chunk.js"
   ]
 }
