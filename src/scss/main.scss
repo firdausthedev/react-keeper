@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+@import "header";
+@import "footer";
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  background: #eee;
+}
+
+.note {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 1rem;
+  width: 24rem;
+  margin: 1.6rem;
+  float: left;
+
+  h1 {
+    font-size: 1.9rem;
+    margin-bottom: 0.6rem;
+  }
+
+  p {
+    font-size: 1.9rem;
+    margin-bottom: 1rem;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+}
+.note button {
+  position: relative;
+  float: right;
+  margin-right: 10px;
+  background: transparent;
+  color: #264e86;
+  border: none;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  outline: none;
+  transform: scale(1.4);
+}
+form {
+  position: relative;
+  width: 480px;
+  margin: 30px auto 20px auto;
+  background: #fff;
+  padding: 15px;
+  border-radius: 7px;
+  box-shadow: 0 1px 5px rgb(138, 137, 137);
+
+  .btn {
+    position: absolute;
+    right: 18px;
+    bottom: -18px;
+    background: #264e86;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    outline: none;
+
+    &:hover {
+      background: #333333;
+    }
+  }
+
+  .add {
+    transform: scale(1.7);
+    margin: 0px 0 0 0;
+  }
+  input,
+  textarea {
+    width: 100%;
+    border: none;
+    padding: 4px;
+    outline: none;
+    font-size: 1.8em;
+    font-family: inherit;
+    resize: none;
+  }
+}

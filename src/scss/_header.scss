@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  background: #264e86;
+  flex-direction: row;
+  padding: 2rem;
+
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.3);
+
+  #icon {
+    color: white;
+    display: inline-block;
+    transform: scale(2);
+    align-self: center;
+    margin-right: 1rem;
+    margin-top: -6px;
+  }
+  h1 {
+    font-size: 3rem;
+    color: white;
+    font-weight: 200;
+  }
+}
